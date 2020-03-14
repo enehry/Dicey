@@ -1,6 +1,6 @@
 # dicey
 
-Dice Flutter App
+My First Flutter App
 
 ## Getting Started
 
